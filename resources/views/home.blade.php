@@ -1,15 +1,6 @@
 @extends('app')
 
 @section('content')
-    <!--<h4>Users</h4>
-    <table>
-        @foreach ($users as $user)
-            <tr><td>{{ $user->name }} </td></tr>
-             <tr><td>{{ $user->enroll_no }}</td></tr>
-             <tr><td>{{ $user->password }}</td></tr>
-             <tr><td>{{ $user->email }}</td></tr>
-        @endforeach
-    </table> -->
     
     <div class="container">
     <div class="row">
